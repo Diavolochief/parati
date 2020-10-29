@@ -1,0 +1,60 @@
+*{
+    margin:10px;
+    padding:10px;
+    box-sizing: border-box;
+}
+body{
+    background-color: blanchedalmond;
+    font-family: 'Roboto',sans-serif
+    background-origin: padding-box 10px 50px ;
+    border-color: #cc9393;
+    border-width: 95px;
+    border-style: solid;
+}
+
+h1{
+    text-align: center;
+}
+hr{
+    background-color: red;
+    padding: 5px 5px;
+}
+h4{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+h2 + p{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+p + p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.video-1{
+    text-align: center;
+}
+.taquitos-1{
+    text-align: center;
+}
+figure{
+ text-align: center;
+}
+div{
+    background-image: ;
+    text-align: center;
+    
+}
+img{
+    background-color: crimson;
+
+}
