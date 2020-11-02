@@ -3,13 +3,21 @@
     padding:10px;
     box-sizing: border-box;
 }
+video{
+    background-color: darkred;
+}
 body{
     background-color: blanchedalmond;
+    line-height:  20px;
     font-family: 'Roboto',sans-serif
     background-origin: padding-box 10px 40px ;
     border-color: #cc9393;
     border-width: 45px;
     border-style: solid;
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
 h1{
@@ -46,6 +54,11 @@ footer{
 .taquitos-1{
     text-align: center;
 }
+.mi-lista{
+   background-color: blueviolet;
+   margin: auto;
+   
+}
 figure{
  text-align: center;
 }
@@ -54,7 +67,31 @@ div{
     text-align: center;
     
 }
+a{
+    text-size-adjust:  ;
+}
+
 img{
     background-color: crimson;
+   
 
 }
+.tacoss{
+    
+    background: url("../img/IMG_9362.JPG");
+    background-attachment: fixed;
+    background-position: center center;
+
+    
+}
+
+.taquis-2{
+    text-align: center;
+}
+.taco22{
+    background: url("../img/20181118_124012.jpg");
+    background-attachment: fixed;
+    background-position: center center;
+    color: #ffffff;
+}
+
