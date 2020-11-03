@@ -78,21 +78,23 @@ img{
 }
 .tacoss{
     
-    background: url("../img/IMG_9362.JPG");
+    background: url("../img/esesta.jpeg");
     background-attachment: fixed;
     background-position: center center;
+    object-fit: none;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat    ;
 }
 
 .taquis-2{
     text-align: center;
 }
 .taco22{
-    background: url("../img/amr\ de\ la\ mia\ vita.jpeg");
+    background: url();
     background-attachment: fixed;
     background-position: center center;
     color: #ffffff;
-    object-fit: none;
-    height: 100%;
-    width: 100%;
+    
 }
 
