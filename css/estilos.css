@@ -81,8 +81,6 @@ img{
     background: url("../img/IMG_9362.JPG");
     background-attachment: fixed;
     background-position: center center;
-
-    
 }
 
 .taquis-2{
@@ -93,5 +91,8 @@ img{
     background-attachment: fixed;
     background-position: center center;
     color: #ffffff;
+    object-fit: none;
+    height: 100%;
+    width: 100%;
 }
 
