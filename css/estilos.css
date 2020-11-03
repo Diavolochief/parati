@@ -80,7 +80,7 @@ img{
     
     background: url("../img/esesta.jpeg");
     background-attachment: fixed;
-    background-position: center center;
+    background-position:  100% 100%;
 
     background-size: cover;
 }
