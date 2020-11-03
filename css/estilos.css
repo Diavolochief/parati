@@ -81,10 +81,9 @@ img{
     background: url("../img/esesta.jpeg");
     background-attachment: fixed;
     background-position: center center;
-    object-fit: none;
-    height: 100%;
-    width: 100%;
+   
     background-repeat: no-repeat    ;
+    background-size: contain;
 }
 
 .taquis-2{
