@@ -68,17 +68,15 @@ div{
     
 }
 a{
-    text-size-adjust:  ;
+    shape-image-threshold: inherit;
 }
 
 img{
     background-color: crimson;
-   
-
 }
 .tacoss{
     
-    background: url("../img/mabelle.JPG");
+    background: url(../img/mabelle.JPG);
     background-attachment: fixed;
     background-position:  100% 100% ;
     background-size: auto;
@@ -86,12 +84,5 @@ img{
     
 .taquis-2{
     text-align: center;
-}
-.taco22{
-    background: url();
-    background-attachment: fixed;
-    background-position: center center;
-    color: #ffffff;
-    
 }
 
