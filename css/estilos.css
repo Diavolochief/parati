@@ -78,10 +78,9 @@ img{
     
     background: url(../img/mabelle.JPG);
     background-attachment: fixed;
-    background-position:  100% 100% ;
+    background-position:  center center ;
 background-size: contain;
     background-repeat: no-repeat;
-    align-self: center;
 }
     
 .taquis-2{
