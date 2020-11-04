@@ -1,92 +1,130 @@
-*{
-    margin:3px;
-    padding:10px;
+* {
+    margin: 3px;
+    padding: 10px;
     box-sizing: border-box;
 }
-video{
+
+video {
     background-color: darkred;
 }
-body{
+
+body {
     background-color: blanchedalmond;
-    line-height:  20px;
-    font-family: 'Roboto',sans-serif
-    background-origin: padding-box 10px 40px ;
+    line-height: 20px;
+    font-family: 'Roboto', sans-serif background-origin: padding-box 10px 40px;
     border-color: #cc9393;
     border-width: 45px;
     border-style: solid;
 }
 
-html{
-    scroll-behavior: smooth;
+
+
+button {
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    background: linear-gradient(45deg, crimson, pink, yellow);
+    font-family: cursive;
 }
 
-h1{
+h1 {
     text-align: center;
 }
-hr{
+
+hr {
     background-color: red;
     padding: 5px 5px;
 }
-h4{
-    text-align: center;
-}
-h2{
+
+h4 {
     text-align: center;
 }
 
-h2 + p{
-    text-align: center;
-}
-li{
-    text-align: center;
-}
-p + p{
+h2 {
     text-align: center;
 }
 
-footer{
-    text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-}
-.video-1{
-    text-align: center;
-}
-.taquitos-1{
+h2+p {
     text-align: center;
 }
 
-.color-marco-gradient{
+li {
+    text-align: center;
+}
+
+p+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.video-1 {
+    text-align: center;
+}
+
+.taquitos-1 {
+    text-align: center;
+}
+
+.color-marco-gradient {
     display: inline-block;
     /* padding: px !important; */
-width: 100%;
-    background :linear-gradient(45deg ,gray, red );
+    width: 100%;
+    background: linear-gradient(45deg, gray, red);
 }
-.hijo-frame{
-width: 100%;
+
+.hijo-frame {
+    width: 100%;
 }
-figure{
- text-align: center;
+
+figure {
+    text-align: center;
 }
-div{
+
+div {
     background-image: ;
     text-align: center;
-    
 }
-a{
+
+a {
     shape-image-threshold: inherit;
 }
 
-img{
+img {
     background-color: crimson;
 }
-.tacoss22{  
+
+.tacoss22 {
     background: url(../img/mabelle.JPG);
     background-attachment: fixed;
-    background-position:  100% 100% ;
+    background-position: 100% 100%;
     background-size: cover;
 }
-    
-.taquis-2{
+
+.taquis-2 {
     text-align: center;
 }
 
+/* difusores  */
+
+.cache-11 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+
+.cache-11:hover {
+    background: red;
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 600px;
+    
+}
