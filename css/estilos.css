@@ -54,10 +54,15 @@ footer{
 .taquitos-1{
     text-align: center;
 }
-.mi-lista{
-   background-color: blueviolet;
-   margin: auto;
-   
+
+.color-marco-gradient{
+    display: inline-block;
+    /* padding: px !important; */
+width: 100%;
+    background :linear-gradient(45deg ,gray, red );
+}
+.hijo-frame{
+width: 100%;
 }
 figure{
  text-align: center;
@@ -74,13 +79,11 @@ a{
 img{
     background-color: crimson;
 }
-.tacoss22{
-    
+.tacoss22{  
     background: url(../img/mabelle.JPG);
     background-attachment: fixed;
     background-position:  100% 100% ;
-background-size: cover;
-    background-repeat: unset;
+    background-size: cover;
 }
     
 .taquis-2{
