@@ -79,7 +79,7 @@ img{
     background: url(../img/mabelle.JPG);
     background-attachment: fixed;
     background-position:  center center ;
-background-size: contain;
+background-size: cover;
     background-repeat: no-repeat;
 }
     
