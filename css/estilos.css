@@ -19,14 +19,6 @@ body {
 
 
 
-button {
-    display: block;
-    margin: auto;
-    border-radius: 100%;
-    background: linear-gradient(45deg, crimson, pink, yellow);
-    font-family: cursive;
-}
-
 h1 {
     text-align: center;
 }
@@ -101,7 +93,7 @@ img {
     background: url(../img/mabelle.JPG);
     background-attachment: fixed;
     background-position: 100% 100%;
-    background-size: cover;
+    background-size: contain;
 }
 
 .taquis-2 {
@@ -121,7 +113,7 @@ img {
 }
 
 .cache-11:hover {
-    background: red;
+    background:url(..//img/esesta.jpeg);
     display: inline-block;
     border-radius: 0%;
     width: 400px;
