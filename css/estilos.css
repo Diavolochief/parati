@@ -80,7 +80,7 @@ img{
     background-attachment: fixed;
     background-position:  100% 100% ;
 background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: unset;
 }
     
 .taquis-2{
