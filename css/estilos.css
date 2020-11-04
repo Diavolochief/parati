@@ -94,6 +94,7 @@ img {
     background-attachment: fixed;
     background-position: 100% 100%;
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .taquis-2 {
@@ -114,7 +115,7 @@ img {
 
 .cache-11:hover {
     background:url(..//img/esesta.jpg);
-    4display: inline-block;
+    display: inline-block;
     border-radius: 0%;
     width: 400px;
     height: 539px;
