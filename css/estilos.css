@@ -239,7 +239,8 @@ img {
     padding: 7px 7px;
     display: inline-block;
     width: 45%;
-    background: linear-gradient(45deg, gray,silver,pink);
+    background: linear-gradient(45deg,red,silver,pink,rgb(255, 55, 228));
+color: white;
 }
 
 .texto-mi-amor{
@@ -249,5 +250,7 @@ img {
 
     
     .marco-de-spotify{
-
+        border-color: crimson;
+        display: block;
+        padding: 10%;
     }
