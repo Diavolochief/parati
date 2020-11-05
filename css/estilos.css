@@ -242,7 +242,7 @@ img {
 .color-marco-gradient{
     padding: 7px 7px;
     display: inline-block;
-    width: 45%;
+    width: 60%;
     background: linear-gradient(45deg,red,silver,pink,rgb(255, 55, 228));
 color: white;
 }
