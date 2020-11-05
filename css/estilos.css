@@ -97,7 +97,8 @@ img {
 /* color letra difusures*/
 .colorletra{
     color: white;
-    text-align: center;
+    text-align: end;
+   text-size-adjust: 10pxz|;
     
 }
 /* difusores  */
@@ -106,7 +107,8 @@ img {
 .cache-note{
     text-align: center;
     display: inline-block;
-    background:url(..//img/esesta.jpg);
+    background:url(..//img/contenedoresimagenes/esesta1.jpg);
+    background-repeat: no-repeat;
     width: 200px;
     height: 200px;
     margin-bottom: 10px;
@@ -115,7 +117,7 @@ img {
 }
 
 .cache-note:hover{
-    background:url(..//img/esesta.jpg);
+    background:url(../img/contenedoresimagenes/esesta.jpg);
     border-radius: 2%;
     width: 400px;
     height: 539px;
