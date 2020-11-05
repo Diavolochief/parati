@@ -103,7 +103,7 @@ img {
 
 /* difusores  */
 
-.cache-11 {
+.cache {
     display: inline-block;
     width: 200px;
     height: 200px;
@@ -113,11 +113,47 @@ img {
     transition: all ease 3s;
 }
 
-.cache-11:hover {
+.cache:hover {
     background:url(..//img/esesta.jpg);
     display: inline-block;
     border-radius: 0%;
     width: 400px;
     height: 539px;
     
+}
+
+.cache-no2{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+
+.cache-no2{
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px;
+    
+}
+.cache-no3 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+
+.cache-no3:hover {
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px;   
 }
