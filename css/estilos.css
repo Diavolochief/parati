@@ -1,7 +1,5 @@
 
-video {
-    background-color: darkred;
-}
+
 
 body {
     background-color: blanchedalmond;
@@ -15,7 +13,9 @@ body {
     box-sizing: border-box;
 }
 
-
+video {
+    background-color: darkred;
+}
 
 h1 {
     text-align: center;
@@ -231,9 +231,7 @@ img {
     margin-bottom: 10px;
     border-radius: 100%;
     transition: all ease 3s;
-
 }
-
 .cache-notes:hover{
     background:url(../img/contenedoresimagenes/esesta.jpg);
     border-radius: 3%;
@@ -241,7 +239,6 @@ img {
     height: 539px;
     display: inline-block;
 }
-
 
 .color-marco-gradient{
     margin: auto;
