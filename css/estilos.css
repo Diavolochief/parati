@@ -1,12 +1,12 @@
 body {
     background-color: blanchedalmond;
-    line-height: 20px;
+    line-height: 25px;
     font-family: 'Roboto', sans-serif background-origin: padding-box 10px 40px;
     border-color: #cc9393;
-    border-width: 45px;
+    border-width: 35px;
     border-style: solid;
     margin: 3px;
-    padding: 10px;
+    padding: 10px 10px;
     box-sizing: border-box;
 }
 
@@ -236,8 +236,8 @@ img {
 
 .color-marco-gradient{
     text-align: center;
-    padding: 7px;
+    padding: 7px 7px;
     display: inline-block;
-    width: 95%;
+    width: 95.5%;
     background: linear-gradient(45deg, gray,silver,pink);
 }
