@@ -235,9 +235,12 @@ img {
 }
 
 .color-marco-gradient{
-    text-align: center;
     padding: 7px 7px;
     display: inline-block;
-    width: 95.5%;
+    width: 45%;
     background: linear-gradient(45deg, gray,silver,pink);
 }
+
+.texto-mi-amor{
+    display: inline-block;
+    width: 45%;
