@@ -99,6 +99,7 @@ img {
     text-align: center;
     display: inline-block;
     background:url(..//img/contenedoresimagenes/esesta2.jpg);
+    background-color: crimson; 
     background-repeat: no-repeat;
     width: 250px; 
     height: 250px;
@@ -244,3 +245,9 @@ img {
 .texto-mi-amor{
     display: inline-block;
     width: 45%;
+}
+
+    
+    .marco-de-spotify{
+
+    }
