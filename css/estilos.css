@@ -12,6 +12,7 @@ body {
 
 video {
     background-color: darkred;
+
 }
 
 h1 {
@@ -244,13 +245,17 @@ color: white;
 }
 
 .texto-mi-amor{
+    object-position: top;
     display: inline-block;
     width: 45%;
 }
 
     
-    .marco-de-spotify{
+    .marcoss{
         border-color: crimson;
-        display: block;
-        padding: 10%;
+        border-width: 5px;
+        border-style: solid;
+        margin: 3px;
+        padding: 10px 10px;
+        box-sizing: border-box;
     }
