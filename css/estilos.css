@@ -11,7 +11,8 @@ body {
 }
 
 video {
-    background-color: darkred;
+    background-color: rgb(131, 61, 11);
+    padding: 10px;
 
 }
 
@@ -74,7 +75,9 @@ a {
 }
 
 img {
-    background-color: crimson;
+    background-color: rgb(131, 61, 11);
+    padding: 10px;
+
 }
 
 .tacoss22 {
