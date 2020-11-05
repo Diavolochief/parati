@@ -1,6 +1,3 @@
-
-
-
 body {
     background-color: blanchedalmond;
     line-height: 20px;
@@ -58,9 +55,6 @@ footer {
 .taquitos-1 {
     text-align: center;
 }
-
-
-
 .hijo-frame {
     width: 100%;
 }
@@ -241,8 +235,9 @@ img {
 }
 
 .color-marco-gradient{
-    margin: auto;
-    padding: 5px;
+    text-align: center;
+    padding: 7px;
+    display: inline-block;
     width: 50%;
     background: linear-gradient(45deg, gray,silver,pink);
 }
