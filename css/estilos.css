@@ -106,8 +106,8 @@ img {
     display: inline-block;
     background:url(..//img/contenedoresimagenes/esesta2.jpg);
     background-repeat: no-repeat;
-    width: 300px; 
-    height: 300px;
+    width: 250px; 
+    height: 250px;
     margin-bottom: 10px;
     border-radius: 100%;
     transition: all ease 2s;
@@ -123,8 +123,8 @@ img {
 
 .cache-nova{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
@@ -140,8 +140,8 @@ img {
 }
 .cache-nolla{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
@@ -157,8 +157,8 @@ img {
 }
 .cache-nos{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
@@ -174,8 +174,8 @@ img {
 }
 .cache-nonu{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
@@ -191,8 +191,8 @@ img {
 }
 .cache-non{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
@@ -208,8 +208,8 @@ img {
 }
 .cache-noca{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
@@ -225,8 +225,8 @@ img {
 }
 .cache-notes{
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
