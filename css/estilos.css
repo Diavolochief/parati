@@ -103,26 +103,27 @@ img {
 
 /* difusores  */
 
-.cache {
+
+.cache-note{
+    text-align: center;
+    color
     display: inline-block;
+    background:url(..//img/esesta.jpg);
     width: 200px;
     height: 200px;
-    background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
     transition: all ease 3s;
 }
 
-.cache:hover {
+.cache-note:hover{
     background:url(..//img/esesta.jpg);
-    display: inline-block;
     border-radius: 0%;
     width: 400px;
     height: 539px;
-    
 }
 
-.cache-no2{
+.cache-nova{
     display: inline-block;
     width: 200px;
     height: 200px;
@@ -132,28 +133,111 @@ img {
     transition: all ease 3s;
 }
 
-.cache-no2{
-    background:url(..//img/esesta.jpg);
-    display: inline-block;
-    border-radius: 0%;
-    width: 400px;
-    height: 539px;
-    
-}
-.cache-no3 {
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-    background: #000;
-    margin-bottom: 10px;
-    border-radius: 100%;
-    transition: all ease 3s;
-}
-
-.cache-no3:hover {
+.cache-nova:hover {
     background:url(..//img/esesta.jpg);
     display: inline-block;
     border-radius: 0%;
     width: 400px;
     height: 539px;   
+}
+.cache-nolla{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+.cache-nolla:hover{
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px; 
+
+}
+.cache-nos{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+.cache-nos:hover{
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px; 
+
+}
+.cache-nonu{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+.cache-nonu:hover{
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px; 
+
+}
+.cache-non{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+.cache-non:hover{
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px; 
+
+}
+.cache-noca{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+.cache-noca:hover{
+    background:url(..//img/esesta.jpg);
+    display: inline-block;
+    border-radius: 0%;
+    width: 400px;
+    height: 539px; 
+
+}
+.cache-notes{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    transition: all ease 3s;
+}
+
+.cache-notes:hover{
+    background:url(..//img/esesta.jpg);
+    border-radius: 0%;
+    width: 400px;
+    height: 539px;
 }
