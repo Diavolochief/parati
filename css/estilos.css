@@ -5,14 +5,16 @@ a {
 a:visited {
     color: blue;
 }
-.tacosidad{
+
+.tacosidad {
     font-size: 150px;
 }
+
 body {
     line-height: 25px;
     font-family: 'Itim', cursive;
     background-origin: padding-box 10px 40px;
-    background: linear-gradient(45deg, #BC43A8, pink, #D88DCC, #BC43A8, pink, #E6B2DD, #BC43A8);
+    background: linear-gradient(45deg, #BC43A8, pink, #BC43A8, pink, #D88DCC, #BC43A8, silver, pink, #f3f1f3, #BC43A8);
     margin: 3px;
     padding: 30px;
     box-sizing: border-box;
@@ -108,6 +110,8 @@ img {
 
 /* difusores  */
 
+/*contenedor1*/
+
 .cache-note {
     text-align: center;
     display: inline-block;
@@ -117,7 +121,8 @@ img {
     height: 250px;
     margin-bottom: 10px;
     border-radius: 100%;
-    transition: all ease 2s;
+    background-repeat: no-repeat;
+    transition: all ease 1.5s;
 }
 
 .cache-note:hover {
@@ -125,42 +130,52 @@ img {
     border-radius: 3%;
     width: 400px;
     height: 539px;
+    background-repeat: no-repeat;
     display: inline-block;
 }
 
+/*contenedor2*/
+
 .cache-nova {
+    background: url(../img/contenedoresimagenes/imagen2.jpg);
     display: inline-block;
     width: 250px;
     height: 250px;
-    background: #000;
+    display: inline-block;
     margin-bottom: 10px;
+    background-repeat: no-repeat;
     border-radius: 100%;
-    transition: all ease 2s;
+    transition: all ease 1.5s;
 }
 
 .cache-nova:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background: url(../img/contenedoresimagenes/imagen2g.jpg);
     border-radius: 3%;
-    width: 400px;
-    height: 539px;
+    width: 591px;
+    height: 422px;
+    background-repeat: no-repeat;
     display: inline-block;
 }
+
+/*contenedor 3*/
 
 .cache-nolla {
     display: inline-block;
+    background: url(../img/contenedoresimagenes/beso1.jpg);
     width: 250px;
     height: 250px;
-    background: #000;
     margin-bottom: 10px;
     border-radius: 100%;
-    transition: all ease 3s;
+    background-repeat: no-repeat;
+    transition: all ease 1.5s;
 }
 
 .cache-nolla:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background: url(../img/contenedoresimagenes/beso2.jpg);
     border-radius: 3%;
     width: 400px;
     height: 539px;
+    background-repeat: no-repeat;
     display: inline-block;
 }
 
@@ -168,35 +183,39 @@ img {
     display: inline-block;
     width: 250px;
     height: 250px;
-    background: #000;
+    background: url(../img/contenedoresimagenes/shulada1.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
-    transition: all ease 3s;
+    background-repeat: no-repeat;
+    transition: all ease 1.5s;
 }
 
 .cache-nos:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background: url(../img/contenedoresimagenes/shulada2.jpg);
     border-radius: 3%;
-    width: 400px;
-    height: 539px;
+    width: 539px;
+    height: 400px;
+    background-repeat: no-repeat;
     display: inline-block;
 }
 
 .cache-nonu {
     display: inline-block;
+    background: url(../img/contenedoresimagenes/lomashermoso1.jpg);
     width: 250px;
     height: 250px;
-    background: #000;
     margin-bottom: 10px;
+    background-repeat: no-repeat;
     border-radius: 100%;
-    transition: all ease 3s;
+    transition: all ease 1.5s;
 }
 
 .cache-nonu:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background: url(../img/contenedoresimagenes/lomashermoso2.jpg);
     border-radius: 3%;
     width: 400px;
     height: 539px;
+    background-repeat: no-repeat;
     display: inline-block;
 }
 
@@ -204,32 +223,41 @@ img {
     display: inline-block;
     width: 250px;
     height: 250px;
-    background: #000;
+    background-repeat: no-repeat;
+    background:url(../img/contenedoresimagenes/juntos1.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
-    transition: all ease 3s;
+    transition: all ease 1.5s;
 }
 
 .cache-non:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background-repeat: no-repeat;
+    background: url(../img/contenedoresimagenes/juntos2.jpg);
     border-radius: 3%;
-    width: 400px;
-    height: 539px;
+    width: 539px;
+    height: 400px;
     display: inline-block;
 }
-
+.cachete{
+    border-radius: 100px;
+    background:linear-gradient(45deg, pink,rgb(228, 131, 223),pink,black);
+    width: 10%;
+    
+}
 .cache-noca {
     display: inline-block;
+    background-repeat: no-repeat;
     width: 250px;
     height: 250px;
-    background: #000;
+    background: url(../img/contenedoresimagenes/hacertefeliz2.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
-    transition: all ease 3s;
+    transition: all ease 1.5s;
 }
 
 .cache-noca:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background-repeat: no-repeat;
+    background: url(../img/contenedoresimagenes/hacertefeliz1.jpg);
     border-radius: 3%;
     width: 400px;
     height: 539px;
@@ -240,17 +268,19 @@ img {
     display: inline-block;
     width: 250px;
     height: 250px;
-    background: #000;
+    background: url(../img/contenedoresimagenes/total.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
-    transition: all ease 3s;
+    background-repeat: no-repeat;
+    transition: all ease 1.5s;
 }
 
 .cache-notes:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
-    border-radius: 3%;
+    background: url(../img/contenedoresimagenes/total2.jpg);
+    border-radius: 5%;
     width: 400px;
     height: 539px;
+    background-repeat: no-repeat;
     display: inline-block;
 }
 
@@ -258,7 +288,7 @@ img {
     padding: 7px 10px;
     display: inline-block;
     width: 45%;
-    background: linear-gradient(to bottom, #672E3B);
+    background: linear-gradient(45deg, black, #BC43A8, pink, #D88DCC, black, #BC43A8, black, pink, #E6B2DD, #BC43A8, black);
 }
 
 .texto-mi-amor {
@@ -274,4 +304,8 @@ img {
     margin: 3px;
     padding: 10px 10px;
     box-sizing: border-box;
+}
+
+.colorletra2 {
+    color: #000;
 }
