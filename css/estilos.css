@@ -7,10 +7,12 @@ body {
     margin: 3px;
     padding: 30px ;
     box-sizing: border-box;
+    background-repeat: no-repeat ;
 }
 .contedorgeneral{
     background-color: #fdf8ed;
   padding: 10px;
+ 
 }
 video {
     background-color:#D291BC;
