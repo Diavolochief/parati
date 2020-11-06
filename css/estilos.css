@@ -220,8 +220,8 @@ img {
 .cache-nonu:hover {
     background: url(../img/contenedoresimagenes/lomashermoso2.jpg);
     border-radius: 3%;
-    width: 400px;
-    height: 539px;
+    width: 409px;
+    height: 350px;
     background-repeat: no-repeat;
     display: inline-block;
 }
