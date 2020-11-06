@@ -1,16 +1,17 @@
 body {
-    background-color: #fdf8ed;
+   
     line-height: 25px;
     line-height: 25px;
-    font-family: 'Roboto', sans-serif background-origin: padding-box 10px 40px;
-    border-color: #FEC8D8;
-    border-width: 35px;
-    border-style: solid;
+    font-family: 'Roboto', sans-serif ;background-origin: padding-box 10px 40px;
+    background: linear-gradient(45deg,#BC43A8 ,pink,#D88DCC,#BC43A8 ,pink,#E6B2DD,#BC43A8);
     margin: 3px;
-    padding: 10px 10px;
+    padding: 30px ;
     box-sizing: border-box;
 }
-
+.contedorgeneral{
+    background-color: #fdf8ed;
+  padding: 10px;
+}
 video {
     background-color:#D291BC;
     padding: 10px;
@@ -22,7 +23,7 @@ h1 {
 }
 
 hr {
-    background-color:#957DAD;
+    background: linear-gradient(45deg,#BC43A8 ,#D88DCC,#E6B2DD);
 
     padding: 5px 5px;
 }
@@ -254,7 +255,7 @@ img {
 
     
     .marcoss{
-        border-color: #D291BC;
+        border-color: #d881bb;
         border-width: 5px;
         border-style: solid;
         margin: 3px;
