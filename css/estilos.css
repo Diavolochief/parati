@@ -1,17 +1,18 @@
 body {
-    background-color: #EDCDC2;
+    background-color: #fdf8ed;
+    line-height: 25px;
     line-height: 25px;
     font-family: 'Roboto', sans-serif background-origin: padding-box 10px 40px;
-    
-    
-   
+    border-color: #FEC8D8;
+    border-width: 35px;
+    border-style: solid;
     margin: 3px;
     padding: 10px 10px;
     box-sizing: border-box;
 }
 
 video {
-    background-color:#672E3B;
+    background-color:#D291BC;
     padding: 10px;
 
 }
@@ -21,7 +22,8 @@ h1 {
 }
 
 hr {
-    background-color:#672E3B;
+    background-color:#957DAD;
+
     padding: 5px 5px;
 }
 
@@ -74,7 +76,7 @@ a {
 }
 
 img {
-    background-color: #672E3B;
+    background-color: #D291BC;
     padding: 10px;
 }
 
@@ -240,7 +242,7 @@ img {
     padding: 7px 10px;
     display: inline-block;
     width: 45%;
-    background: linear-gradient(to bottom ,rgb(180, 90, 6),rgb(251, 122, 122),  rgb(255, 138, 60),  rgb(175, 91, 243),rgb(255, 168, 55));
+    background: linear-gradient(to bottom,#672E3B );
 
 }
 
@@ -252,7 +254,7 @@ img {
 
     
     .marcoss{
-        border-color: rgb(100, 68, 45);
+        border-color: #D291BC;
         border-width: 5px;
         border-style: solid;
         margin: 3px;
