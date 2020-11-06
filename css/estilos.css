@@ -5,7 +5,9 @@ a {
 a:visited {
     color: blue;
 }
-
+.tacosidad{
+    font-size: 150px;
+}
 body {
     line-height: 25px;
     font-family: 'Itim', cursive;
