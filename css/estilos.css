@@ -1,17 +1,17 @@
 body {
-    background-color: blanchedalmond;
+    background-color: #EDCDC2;
     line-height: 25px;
     font-family: 'Roboto', sans-serif background-origin: padding-box 10px 40px;
-    border-color: #cc9393;
-    border-width: 35px;
-    border-style: solid;
+    
+    
+   
     margin: 3px;
     padding: 10px 10px;
     box-sizing: border-box;
 }
 
 video {
-    background-color: darkred;
+    background-color:#672E3B;
     padding: 10px;
 
 }
@@ -21,7 +21,7 @@ h1 {
 }
 
 hr {
-    background-color: red;
+    background-color:#672E3B;
     padding: 5px 5px;
 }
 
@@ -74,7 +74,7 @@ a {
 }
 
 img {
-    background-color: rgb(173, 28, 28);
+    background-color: #672E3B;
     padding: 10px;
 }
 
@@ -101,7 +101,6 @@ img {
     text-align: center;
     display: inline-block;
     background:url(..//img/contenedoresimagenes/esesta2.jpg);
-    background-color: crimson; 
     background-repeat: no-repeat;
     width: 250px; 
     height: 250px;
@@ -238,11 +237,11 @@ img {
 }
 
 .color-marco-gradient{
-    padding: 7px 7px;
+    padding: 7px 10px;
     display: inline-block;
     width: 45%;
-    background: linear-gradient(45deg,red,silver,pink,rgb(255, 55, 228));
-color: white;
+    background: linear-gradient(to bottom ,rgb(180, 90, 6),rgb(251, 122, 122),  rgb(255, 138, 60),  rgb(175, 91, 243),rgb(255, 168, 55));
+
 }
 
 .texto-mi-amor{
@@ -253,7 +252,7 @@ color: white;
 
     
     .marcoss{
-        border-color: chocolate;
+        border-color: rgb(100, 68, 45);
         border-width: 5px;
         border-style: solid;
         margin: 3px;
