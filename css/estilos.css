@@ -237,7 +237,9 @@ img {
     transition: all ease 1.5s;
 }
 
+
 .cache-non:hover {
+    
     background-repeat: no-repeat;
     background: url(../img/contenedoresimagenes/juntos2.jpg);
     border-radius: 3%;
@@ -316,14 +318,10 @@ img {
 .colorletra2 {
     color: #000;
 }
-/* .marcossaa{
-    border-color: #d881bb;
-    border-style: solid;
-    margin: 3px;
-    padding: 10px 10px;
-    box-sizing: border-box;
-} */
 
 .margen{
     width: 50%;
 }
+<style>
+img{max-width:100%;}
+</style>
