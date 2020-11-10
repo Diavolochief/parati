@@ -371,8 +371,8 @@ img {
     display: inline-block;
     background: url(..//img/contenedoresimagenes/esesta2.jpg);
     background-repeat: no-repeat;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
     border-radius: 100%;
     background-repeat: no-repeat;
@@ -380,7 +380,7 @@ img {
 }
 
 .cache-note:hover {
-    background: url(../img/contenedoresimagenes/esesta.jpg);
+    background: url(../img/contenedoresimagenes/eesesta.jpg);
     border-radius: 3%;
     width: 250px;
     height: 339px;
