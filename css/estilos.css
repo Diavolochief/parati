@@ -548,4 +548,9 @@ img {
     width: 95%;
     height: auto;
 }
+.texto-mi-amor {
+    object-position: top;
+    display: inline;
+    width: 45%;
+}
 }
