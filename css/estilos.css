@@ -236,7 +236,7 @@ img {
 .cachete {
     border-radius: 100%;
     background: linear-gradient(45deg, pink, rgb(228, 131, 223), pink, black);
-    width: 25%;
+    width: 50%;
 }
 
 .cache-noca {
