@@ -493,14 +493,16 @@ img {
 .tacoss22 {
     background: url(../img/mabelle.JPG);
     width: 55%;
+    height: auto;
     background-attachment: fixed;
     background-position: 0% 100%;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.lacache{
+.lacache+img{
     width: 55%;
 }
+
 .taco-22{
     width:25%;
     height: auto;
