@@ -543,7 +543,7 @@ img {
 }
 .color-marco-gradient {
     padding: 7px 10px;
-    display: inline-block;
+    display: inline;
     width: 95%;
     background: linear-gradient(45deg, black, #BC43A8, pink, #D88DCC, black, #BC43A8, black, pink, #E6B2DD, #BC43A8, black);
 }
