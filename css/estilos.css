@@ -312,11 +312,16 @@ img {
 @media screen and (max-width:775px) {
     body {
         max-width: 95%;
+        padding: 10px;
     }
     .cache-notes {
         border: solid 5px black;
         width: 150px;
         height: 150px;
+    }
+    video{
+        width: 95%;
+        height:auto;
     }
 }
 
