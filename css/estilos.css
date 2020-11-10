@@ -499,6 +499,9 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.lacache{
+    width: 55%;
+}
 
 }
 
