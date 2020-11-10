@@ -334,8 +334,8 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.lacache+img{
-    width: 25%;
+.lacache{
+    width: 95%;
 }
 
 .tacote{
