@@ -1,4 +1,3 @@
-
 a {
     color: blue;
 }
@@ -225,15 +224,13 @@ img {
     width: 250px;
     height: 250px;
     background-repeat: no-repeat;
-    background:url(../img/contenedoresimagenes/juntos1.jpg);
+    background: url(../img/contenedoresimagenes/juntos1.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
     transition: all ease 1.5s;
 }
 
-
 .cache-non:hover {
-    
     background-repeat: no-repeat;
     background: url(../img/contenedoresimagenes/juntos2.jpg);
     border-radius: 3%;
@@ -241,12 +238,13 @@ img {
     height: 400px;
     display: inline-block;
 }
-.cachete{
+
+.cachete {
     border-radius: 100px;
-    background:linear-gradient(45deg, pink,rgb(228, 131, 223),pink,black);
+    background: linear-gradient(45deg, pink, rgb(228, 131, 223), pink, black);
     width: 10%;
-    
 }
+
 .cache-noca {
     display: inline-block;
     background-repeat: no-repeat;
@@ -313,23 +311,22 @@ img {
     color: #000;
 }
 
-.margen{
-
+.margen {
     margin: auto;
 }
- 
-@media screen and (max-width:775px){
-body{
-    max-width: 95%;
+
+@media screen and (max-width:775px) {
+    body {
+        max-width: 95%;
+    }
+    .cache-notes {
+        border: solid 5px black;
+        width: 150px;
+        height: 150px;
+    }
 }
 
-.cache-notes{
-    width: 150px;
-    height: 150px;
-}
-
-}
-.img-w-alto{
+.img-w-alto {
     width: auto;
     height: auto;
 }
