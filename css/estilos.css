@@ -493,10 +493,7 @@ img {
     display: inline-block;
 }
 
-.cachete {
-    border-radius: 100%;
-    background: linear-gradient(45deg, pink, rgb(228, 131, 223), pink, black);
-    width: 50%;
+
 }
 
 .cache-noca {
@@ -539,12 +536,12 @@ img {
     display: inline-block;
 }
 .hijo-frame {
-    width: 90%;
+    width: 100%;
 }
 .color-marco-gradient {
-    padding: 7px 10px;
-    display: inline;
-    width: 60%;
+    padding: 7px 7px;
+    display: inline-block;
+    width: 95%;
     background: linear-gradient(45deg, black, #BC43A8, pink, #D88DCC, black, #BC43A8, black, pink, #E6B2DD, #BC43A8, black);
 }
 .marcoss{
