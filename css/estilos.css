@@ -505,13 +505,19 @@ img {
 
 .taco-22{
     width:181px;
-    
 
-}
 
 }
 
 .img-w-alto {
+
     width: auto;
     height: auto;
+}
+
+.imagen-ultimo{
+    width: 60%;
+    margin: auto;
+    
+}
 }
