@@ -456,8 +456,8 @@ img {
 .cache-nonu {
     display: inline-block;
     background: url(../img/contenedoresimagenes/lomashermoso1.jpg);
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
     background-repeat: no-repeat;
     border-radius: 100%;
@@ -467,8 +467,8 @@ img {
 .cache-nonu:hover {
     background: url(../img/contenedoresimagenes/lomashermoso2.jpg);
     border-radius: 3%;
-    width: 409px;
-    height: 350px;
+    width: 250px;
+    height: 339px;
     background-repeat: no-repeat;
     display: inline-block;
 }
