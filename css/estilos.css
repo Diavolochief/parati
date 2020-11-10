@@ -516,10 +516,10 @@ img {
     display: inline-block;
 }
 
-.cache-notes {
+.cache-notes {  
     display: inline-block;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     background: url(../img/contenedoresimagenes/total.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
