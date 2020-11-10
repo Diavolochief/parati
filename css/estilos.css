@@ -327,10 +327,10 @@ img {
 
 .tacoss22 {
     background: url(../img/mabelle.JPG);
-    width: 95%;
+    width: 99%;
     height: auto;
     background-attachment: fixed;
-    background-position: 0% 100%;
+    background-position: 0% 0%;
     background-size: contain;
     background-repeat: no-repeat;
 }
