@@ -234,9 +234,9 @@ img {
 }
 
 .cachete {
-    border-radius: 100px;
+    border-radius: 100%;
     background: linear-gradient(45deg, pink, rgb(228, 131, 223), pink, black);
-    width: 10%;
+    width: 25%;
 }
 
 .cache-noca {
@@ -355,6 +355,6 @@ img {
 }
 .tacosidad{
     font-size: 60px;
-    
+
 }
 }
