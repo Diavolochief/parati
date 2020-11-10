@@ -393,8 +393,8 @@ img {
 .cache-nova {
     background: url(../img/contenedoresimagenes/imagen2.jpg);
     display: inline-block;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     display: inline-block;
     margin-bottom: 10px;
     background-repeat: no-repeat;
@@ -403,10 +403,10 @@ img {
 }
 
 .cache-nova:hover {
-    background: url(../img/contenedoresimagenes/imagen2g.jpg);
+    background: url(../img/contenedoresimagenes/imagenn.jpg);
     border-radius: 3%;
-    width: 591px;
-    height: 422px;
+    width: 339px;
+    height: 250px;
     background-repeat: no-repeat;
     display: inline-block;
 }
@@ -416,8 +416,8 @@ img {
 .cache-nolla {
     display: inline-block;
     background: url(../img/contenedoresimagenes/beso1.jpg);
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
     border-radius: 100%;
     background-repeat: no-repeat;
@@ -427,16 +427,16 @@ img {
 .cache-nolla:hover {
     background: url(../img/contenedoresimagenes/beso2.jpg);
     border-radius: 3%;
-    width: 400px;
-    height: 539px;
+    width: 250px;
+    height: 339px;
     background-repeat: no-repeat;
     display: inline-block;
 }
 
 .cache-nos {
     display: inline-block;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     background: url(../img/contenedoresimagenes/shulada1.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
