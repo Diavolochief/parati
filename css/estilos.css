@@ -447,8 +447,8 @@ img {
 .cache-nos:hover {
     background: url(../img/contenedoresimagenes/shulada2.jpg);
     border-radius: 3%;
-    width: 539px;
-    height: 400px;
+    width: 300px;
+    height: 339px;
     background-repeat: no-repeat;
     display: inline-block;
 }
