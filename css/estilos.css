@@ -309,7 +309,7 @@ img {
     margin: auto;
 }
 
-@media screen and (max-width:775px) {
+@media screen and (max-width:790px) {
     body {
         max-width: 95%;
         padding: 10px;
