@@ -491,6 +491,14 @@ img {
     background-repeat: no-repeat;
     display: inline-block;
 }
+.tacoss22 {
+    background: url(../img/mabelle.JPG);
+    width: 55%;
+    background-attachment: fixed;
+    background-position: 0% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 }
 
