@@ -475,8 +475,8 @@ img {
 
 .cache-non {
     display: inline-block;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     background-repeat: no-repeat;
     background: url(../img/contenedoresimagenes/juntos1.jpg);
     margin-bottom: 10px;
@@ -488,8 +488,8 @@ img {
     background-repeat: no-repeat;
     background: url(../img/contenedoresimagenes/juntos2.jpg);
     border-radius: 3%;
-    width: 539px;
-    height: 400px;
+    width: 312px;
+    height: 232px;
     display: inline-block;
 }
 
@@ -499,8 +499,8 @@ img {
 .cache-noca {
     display: inline-block;
     background-repeat: no-repeat;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     background: url(../img/contenedoresimagenes/hacertefeliz2.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
@@ -511,8 +511,8 @@ img {
     background-repeat: no-repeat;
     background: url(../img/contenedoresimagenes/hacertefeliz1.jpg);
     border-radius: 3%;
-    width: 400px;
-    height: 539px;
+    width: 283px;
+    height: 378px;
     display: inline-block;
 }
 
