@@ -321,7 +321,12 @@ img {
 @media screen and (max-width:775px){
 body{
     max-width: 95%;
+}
 
+.cache-notes{
+    width: 150px;
+    height: 150px;
+}
 
 }
 .img-w-alto{
