@@ -315,7 +315,6 @@ img {
         padding: 10px;
     }
     .cache-notes {
-        border: solid 5px black;
         width: 150px;
         height: 150px;
     }
@@ -330,8 +329,8 @@ img {
     display: inline-block;
     background: url(..//img/contenedoresimagenes/esesta2.jpg);
     background-repeat: no-repeat;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
     border-radius: 100%;
     background-repeat: no-repeat;
@@ -352,8 +351,8 @@ img {
 .cache-nova {
     background: url(../img/contenedoresimagenes/imagen2.jpg);
     display: inline-block;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     display: inline-block;
     margin-bottom: 10px;
     background-repeat: no-repeat;
@@ -375,8 +374,8 @@ img {
 .cache-nolla {
     display: inline-block;
     background: url(../img/contenedoresimagenes/beso1.jpg);
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
     border-radius: 100%;
     background-repeat: no-repeat;
@@ -394,8 +393,8 @@ img {
 
 .cache-nos {
     display: inline-block;
-    width: 23%;
-    height: 250px;
+    width: 150%;
+    height: 150px;
     background: url(../img/contenedoresimagenes/shulada1.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
@@ -415,8 +414,8 @@ img {
 .cache-nonu {
     display: inline-block;
     background: url(../img/contenedoresimagenes/lomashermoso1.jpg);
-    width: 23%;
-    height: 250px;
+    width: 150%;
+    height: 150px;
     margin-bottom: 10px;
     background-repeat: no-repeat;
     border-radius: 100%;
@@ -434,8 +433,8 @@ img {
 
 .cache-non {
     display: inline-block;
-    width: 23%;
-    height: 250px;
+    width: 150%;
+    height: 150px;
     background-repeat: no-repeat;
     background: url(../img/contenedoresimagenes/juntos1.jpg);
     margin-bottom: 10px;
@@ -455,8 +454,8 @@ img {
 .cache-noca {
     display: inline-block;
     background-repeat: no-repeat;
-    width: 23%;
-    height: 250px;
+    width: 150%;
+    height: 150px;
     background: url(../img/contenedoresimagenes/hacertefeliz2.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
@@ -474,8 +473,8 @@ img {
 
 .cache-notes {
     display: inline-block;
-    width: 23%;
-    height: 250px;
+    width: 150%;
+    height: 150px;
     background: url(../img/contenedoresimagenes/total.jpg);
     margin-bottom: 10px;
     border-radius: 100%;
@@ -502,7 +501,10 @@ img {
 .lacache{
     width: 55%;
 }
-
+.taco-22{
+    width:;
+    margin: auto;
+}
 }
 
 .img-w-alto {
