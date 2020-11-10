@@ -24,7 +24,10 @@ body {
 .contedorgeneral {
     background-color: #fdf8ed;
     padding: 10px;
+    width: 90%;
+    margin: auto;
 }
+
 
 video {
     background-color: #D291BC;
