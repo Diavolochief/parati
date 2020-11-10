@@ -29,11 +29,6 @@ body {
 }
 
 
-video {
-    background-color: #D291BC;
-    padding: 10px;
-}
-
 h1,h2,h4,h3,p,li {
     text-align: center;
 }
@@ -61,6 +56,11 @@ footer {
 
 .video-1 {
     text-align: center;
+    background-color: #D291BC;
+    padding: 10px;
+    display:inline-block;
+    width: 50%;
+    margin: auto;
 }
 
 .taquitos-1 {
@@ -319,10 +319,11 @@ img {
         width: 150px;
         height: 150px;
     }
-    video{
+    .video-1{
         width: 95%;
-        height:auto;
+
     }
+    
 }
 
 .img-w-alto {
