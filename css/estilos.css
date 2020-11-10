@@ -331,7 +331,7 @@ img {
     height: auto;
     background-attachment: fixed;
     background-position: 0% 100%;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 .lacache{
