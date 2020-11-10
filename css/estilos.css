@@ -500,13 +500,12 @@ img {
     background-repeat: no-repeat;
 }
 .lacache+img{
-    width: 55%;
+    width: 25%;
 }
 
 .taco-22{
     width:25%;
-    height: auto;
-    margin: auto;
+
 }
 
 }
