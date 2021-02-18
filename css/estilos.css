@@ -356,12 +356,14 @@ img {
 }
 .ultima-imagen{
     width: 95%;
+    display: inline;
    
 
 }
 .ultima-imagen2{
     width: 95%;
     margin: auto;
+
 
 }
 /*contenedor1*/
